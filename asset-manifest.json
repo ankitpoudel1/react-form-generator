@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-form-generator/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/react-form-generator/static/js/main.90f98656.chunk.js",
+    "main.js.map": "/react-form-generator/static/js/main.90f98656.chunk.js.map",
+    "runtime-main.js": "/react-form-generator/static/js/runtime-main.f702d163.js",
+    "runtime-main.js.map": "/react-form-generator/static/js/runtime-main.f702d163.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/react-form-generator/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f0af995b.chunk.js": "/react-form-generator/static/js/2.f0af995b.chunk.js",
+    "static/js/2.f0af995b.chunk.js.map": "/react-form-generator/static/js/2.f0af995b.chunk.js.map",
+    "static/js/3.0dff83f0.chunk.js": "/react-form-generator/static/js/3.0dff83f0.chunk.js",
+    "static/js/3.0dff83f0.chunk.js.map": "/react-form-generator/static/js/3.0dff83f0.chunk.js.map",
+    "index.html": "/react-form-generator/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/react-form-generator/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/react-form-generator/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.f0af995b.chunk.js.LICENSE.txt": "/react-form-generator/static/js/2.f0af995b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f702d163.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.f0af995b.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.90f98656.chunk.js"
+  ]
+}
